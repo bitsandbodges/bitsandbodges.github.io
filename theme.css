@@ -1,5 +1,8 @@
 body {
     width: 60%;
+    width: calc(40% + 280px);
+    min-width: 60%;
+    max-width: 90%;
     margin-left: auto;
     margin-right: auto;
 }
